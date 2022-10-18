@@ -1,0 +1,10 @@
+public class type_casting {
+    public static void main(String[] args) {
+        char a = 'A';
+        int b = 'A';
+        //char c = (char)b;
+
+        System.out.println(b);
+        //System.out.println(c);
+    }
+}
